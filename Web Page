@@ -20,26 +20,32 @@ clear: left;
 text-align: center;
 }
 
-
-
-
-
-
-</style>
+@keyframes mymove {
+    0%   {top: 0px;}
+    25%  {top: 200px;}
+    75%  {top: 50px}
+    100% {top: 100px;}
+}
 
 p.italic {
     font-style: italic;
 }
 
+
+</style>
+
+
+
 <div colspan = "4"  align="center" class "container" id = "p6">
- <title>My First Page</title>   
-<td align="center">
+ <title>My First Page</title> 
+  
+
 <header>
 <h1><span> The Magic Eightball  </span></h1>
 </header>
 <img src=https://i.ytimg.com/vi/WSaS17CSS4c/maxresdefault.jpg height="200" width = "300">
      <h4> By Justin Kilpatrick </h4>
-</td>
+<br>
 <h2> Purpose </h2>
 
 
