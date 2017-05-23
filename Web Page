@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+<body  >
+  <link rel="stylesheet" href="/js/jquery-ui.custom.min.css">
+  <link rel="stylesheet" href="/js/bootstrap.min.css">
+  <link rel="stylesheet" href="/js/express.css">
+
+<div class = "container">
+<style>#p1 {background-color:hsl(120,100%,50%);}
+#p2 {background-color:hsl(120,100%,75%);}
+#p3 {background-color:hsl(120,100%,25%);}
+#p4 {background-color:hsl(120,60%,70%);}
+#p5 {background-color:hsl(290,100%,50%);}
+#p6 {background-color:hsl(290,60%,70%);}
+
+header, footer {
+color: white;
+background-color: black;
+clear: left;
+text-align: center;
+}
+
+
+
+
+
+
+</style>
+
+p.italic {
+    font-style: italic;
+}
+
+<div colspan = "4"  align="center" class "container" id = "p6">
+ <title>My First Page</title>   
+<td align="center">
+<header>
+<h1><span> The Magic Eightball  </span></h1>
+</header>
+<img src=https://i.ytimg.com/vi/WSaS17CSS4c/maxresdefault.jpg height="200" width = "300">
+     <h4> By Justin Kilpatrick </h4>
+</td>
+<h2> Purpose </h2>
+
+
+<p> <p></div>
+</div>
